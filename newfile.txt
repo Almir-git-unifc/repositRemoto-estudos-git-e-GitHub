@@ -1,1 +1,3 @@
 Novo conteudo
+
+Estamos fazendo a besteira: editamos o arquivo direto no GitHub sem modificá-lo no Git local e depois fazer o git add e o git commit; enviando o arquivo para o GitHub.
