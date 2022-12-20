@@ -1,1 +1,2 @@
 “aula sobre o git fetch”
+aula girt pull
