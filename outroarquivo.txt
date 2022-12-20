@@ -1,1 +1,3 @@
 Tem conteudo do git local
+
+Agora incluimos isto após mudar o valor da variável do arquivo testevar.js direto no gitHub
