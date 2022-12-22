@@ -1,1 +1,1 @@
-var casa = 'valor string pra complicar mais';
+let fonte = "Conteudo do desenvolvedor 1";
